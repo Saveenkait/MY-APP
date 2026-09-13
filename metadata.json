@@ -1,0 +1,7 @@
+{
+  "name": "DJ Remix Hub",
+  "description": "DJ Remix audio streaming, free MP3 downloads, project mixing data packs, and custom song remix booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
